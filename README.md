@@ -1,4 +1,4 @@
-# Smart Contract Programming: Implementation of Morra on my own Ethereum smart contract using Solidity
+# Smart Contract Programming: Implementation of Morra on my own Ethereum smart contract (written in Solidity)
 
 The contract should allow two players (A,B) to play a game of Morra at any point in time. Each player picks a number between 1-5 and also guesses which number their fellow player has picked. 
 <br/>
